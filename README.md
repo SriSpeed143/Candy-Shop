@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Siranjeevi M
-- 👀 I’m interested in codings
-- 🌱 I’m currently learning Javascript
+Simple Candy Shop
 
 
 <!---
